@@ -107,7 +107,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UASL
       </details>
     </td>
      <td>
-      <img height="100%" align="right" alt="Github" src="resources/programming.svg" />
+      <img height="150px" align="right" alt="Github" src="resources/hem.svg" />
     </td>
   </tr>
 </table>
