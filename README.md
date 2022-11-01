@@ -107,6 +107,18 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UASL
      <td>
       <img height="150px" align="right" alt="Github" src="resources/hem.svg" />
     </td>
+
+  </tr>
+  <tr>
+    </tr>
+  <tr>
+    <td colspan="2">
+      <div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+    </td>
   </tr>
 </table>
 
