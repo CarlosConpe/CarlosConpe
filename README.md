@@ -102,13 +102,13 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UASL
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br> 
 
-<table>
+<table width="100%">
   <tr>
     <td>
       <details>
-        <summary><b>⚡ Recent GitHub Activity</b></summary>
+        <summary><b>⚡ Recent GitHub Activity &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;</b></summary>
         <br/>
-         <a href="https://github.com/CarlosConpe"><img alt="CarlosConpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CarlosConpe&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+         <a href="https://github.com/CarlosConpe"><img alt="CarlosConpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CarlosConpe&theme=react-dark" /></a>
         <br/>
       </details>
     </td>
