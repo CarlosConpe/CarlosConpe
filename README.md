@@ -1,3 +1,9 @@
+<style>
+    table {
+        width: 100%;
+    }
+</style>
+
 ## Hey 👋, I'm Carlos Contreras
 
 
