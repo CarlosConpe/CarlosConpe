@@ -23,8 +23,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UASL
 <br>
 <br>
 <br>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -94,5 +92,24 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UASL
 
 
 </p>
+<br> 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br> 
+
+<table>
+  <tr>
+    <td>
+      <details>
+        <summary><b>⚡ Recent GitHub Activity</b></summary>
+        <br/>
+         <a href="https://github.com/CarlosConpe"><img alt="CarlosConpe's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CarlosConpe&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+        <br/>
+      </details>
+    </td>
+     <td>
+      <img height="100%" align="right" alt="Github" src="resources/programming.svg" />
+    </td>
+  </tr>
+</table>
 
 <br> 
