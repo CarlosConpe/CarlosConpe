@@ -3,18 +3,20 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/cazzcon/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.contreras.cibera00@gmail.com)](mailto:carlos.contreras.cibera00@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/carlos.conpe/)](https://instagram.com/carlos.conpe) 
 
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/CarlosConpe) 
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="cazz" /> ![GitHub followers](https://img.shields.io/github/followers/CarlosConpe) 
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UASLP University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development, Cybersecurity & Artificial Intelligence 🕸️.
 
-
-<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<div>
+<img width="250px" align="right" alt="Github" src="resources/programming.svg" />
 
 ### More about me:
 
 - 👨💻 Currently working, learning and growing my skillset in artificial intelligence, cybersecurity and development.
 - 🤝 Open for collaborations in web development and cybersecurity 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
+</div>
+
 
 <br>
 
