@@ -3,15 +3,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/cazzcon/)](https://www.linkedin.com/in/cazzcon/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carlos.contreras.cibera00@gmail.com)](mailto:carlos.contreras.cibera00@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/carlos.conpe/)](https://instagram.com/carlos.conpe) 
 
+
+### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="cazz" /> ![GitHub followers](https://img.shields.io/github/followers/CarlosConpe) 
+
+<br>
+
 <div style="margin-bottom:100px">
   <img width="100%" align="right" alt="Github" src="Banner.jpg" />
 </div>
 
 <br><br><br><br><br><br><br>
-
-### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="cazz" /> ![GitHub followers](https://img.shields.io/github/followers/CarlosConpe) 
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
